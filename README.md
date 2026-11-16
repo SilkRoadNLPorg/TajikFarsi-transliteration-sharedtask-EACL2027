@@ -7,9 +7,11 @@ CodaBench Page: [https://www.codabench.org/competitions/18385/](https://www.coda
 Teams MUST fill out the registration form [here](https://forms.gle/vytuy4m6o9mFJNCb8).
 
 ## Tracks 
-This shared task consists of two tracks:
-1. Tajik to Farsi: transliterating from Tajik-Cyrillic to Perso-Arabic
-2. Farsi to Tajik: transliteration from Perso-Arabic to Tajik-Cyrillic
+The task has two tracks; teams may participate in one or both:
+* Cyrillic → Perso-Arabic. Given Tajik text in Cyrillic, produce the Perso-Arabic rendering.
+* Perso-Arabic → Cyrillic. Given Tajik text in Perso-Arabic, produce the Cyrillic rendering.
+
+Rankings are computed per track. A combined (macro-averaged) ranking is reported for information.
 
 
 ## Training Data
