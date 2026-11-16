@@ -8,8 +8,8 @@ Teams MUST fill out the registration form [here](https://forms.gle/vytuy4m6o9mFJ
 
 ## Tracks 
 The task has two tracks; teams may participate in one or both:
-* Cyrillic → Perso-Arabic. Given Tajik text in Cyrillic, produce the Perso-Arabic rendering.
-* Perso-Arabic → Cyrillic. Given Tajik text in Perso-Arabic, produce the Cyrillic rendering.
+* Tajik-Cyrillic → Perso-Arabic. Given Tajik text in Tajik-Cyrillic, produce the Perso-Arabic rendering.
+* Perso-Arabic → Tajik-Cyrillic. Given Tajik text in Perso-Arabic, produce the TajikCyrillic rendering.
 
 Rankings are computed per track. A combined (macro-averaged) ranking is reported for information.
 
