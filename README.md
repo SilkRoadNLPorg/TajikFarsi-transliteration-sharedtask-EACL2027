@@ -31,6 +31,6 @@ Questions can be emailed to the workshop organizers at [info@silkroadnlp.org](in
 ## Workshop Organizers
 Rayyan Merchant (University of Washington)
 
-Mohammad Ali Sadraei Javaheri (Sharif University of Technology)
+Mohammad Ali Sadraei Javaheri (LMU Munich)
 
 Ehsaneddin Asgari (QCRI)
